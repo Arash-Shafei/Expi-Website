@@ -148,9 +148,8 @@ const LandingPage = () => {
               <div className="relative">
                 {/* Using the provided image instead of the mockup */}
                 <img
-                  // src="../../public/vite.svg"
                   // src="../../public/Black.png"
-                  src="../../public/Black (1).jpeg"
+                  src="../../public/static/images/expi-pic.jpeg"
                   alt="Expi App Interface"
                   className="w-auto h-[570px] object-contain"
                   style={{
